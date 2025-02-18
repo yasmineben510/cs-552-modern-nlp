@@ -127,7 +127,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 7 / Week 8</strong></td>
         <td>2 Apr / 9 Apr <br />3 Apr / 10 Apr</td>
-        <td><strong>Midterm</strong> / <strong>[Online only]</strong> LLMs: In-context Learning & Instruction Tuning</strong> <br/> No Class / Project Description</td>
+        <td><strong>Midterm</strong> / <strong>[Online only]</strong> LLMs: In-context Learning & Instruction Tuning <br/> No Class / Project Description</td>
         <td></td>
         <td>Antoine Bosselut</td>
     </tr>
@@ -182,7 +182,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     </tr>
     <tr>
         <td><strong>Week 11</strong></td>
-        <td>30 Apr <br />1 May</td>
+        <td>7 May <br />8 May</td>
         <td>Tokenization &#124; Multilingual LMs <br /><strong>No class</strong> (Work on your project)</td>
         <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2112.10508">Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP</a></li><li><a href="https://arxiv.org/abs/2105.13626">Byt5: Towards a token-free future with pre-trained byte-to-byte models</a></li><li><a href="https://arxiv.org/abs/1508.07909">Neural machine translation of rare words with subword units</a></li><li><a href="https://arxiv.org/abs/1911.02116">Unsupervised cross-lingual representation learning at scale</a></li><li><a href="https://arxiv.org/abs/1911.01464">Emerging cross-lingual structure in pretrained language models</a></li><li><a href="https://arxiv.org/abs/2005.00052">Mad-x: An adapter-based framework for multi-task cross-lingual transfer</a></li><li><a href="https://arxiv.org/abs/2110.07560">Composable sparse fine-tuning for cross-lingual transfer</a></li><li><a href="https://www.ruder.io/state-of-multilingual-ai/">The State of Multilingual AI</a></li></ul></td>
         <td>Antoine Bosselut</td>
@@ -271,7 +271,13 @@ We will be using the [Huggingface Hub](https://huggingface.co/docs/hub/en/index)
 
 
 ### Late Days Policy
-All milestones are due at 23:59 on their due date. As we understand that circumstances can make it challenging to abide by these due dates, you will receive 7 late days over the course of the semester to be allocated to the project milestones as you see fit. No further extensions will be granted. The only exception to this rule is for the final report, code, and data. No extensions will be granted beyond June 14th. We will automatically calculate the late days according to your last commit; hence you don't have to inform us. For group projects, when everyone has some late days, we will deduct individually from everyone. In the scenario where one person has no more late days, that student will lose points for the late submission. The other students in the team will continue to use their late days (i.e. no points will be deducted from them). After you have used all your allotted late days, the penalty policy is a 25% deduction of the grade per day. 
+All milestones are due by 23:59 on their respective due dates. However, we understand that meeting deadlines can sometimes be challenging. 
+To accommodate this, you will be given 2 late days for the semester to use at your discretion for group project milestones. 
+Additionally, you will have 3 individual late days that can be applied to the individual project milestone.
+For group projects, if all members still have late days remaining, those days can be pooled and converted to group late days at a rate of one group late day per four individual late days.
+No extensions will be granted beyond the due dates, except for the final report, code, and data, which have a strict final deadline of June 8th.
+Late days will be automatically tracked based on your latest commit, so there is no need to notify us. Once all your late days are used, any further late submissions will incur a 25% grade deduction per day.
+
 
 ### Midterm (30%):
 
