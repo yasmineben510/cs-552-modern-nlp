@@ -85,7 +85,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 4</strong></td>
         <td>12 Mar <br />13 Mar</td>
-        <td><strong>[Online only]</strong> Pretraining: BERT &#124; Transfer Learning <br /> Pretraining: T5 </td>
+        <td><strong>[Online only]</strong> Pretraining: BERT &#124; Transfer Learning <br /> <strong>[Recorded]</strong> Pretraining: T5 </td>
         <td>Suggested reading: <ul><li>Elmo: <a href="https://aclanthology.org/N18-1202">Deep Contextualized Word Representations</a></li><li>BERT: <a href="https://aclanthology.org/N19-1423">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a></li><li>RoBERTa: <a href="https://arxiv.org/abs/1907.11692">RoBERTa: A Robustly Optimized BERT Pretraining Approach</a></li><li><a href="https://www.ruder.io/state-of-transfer-learning-in-nlp/">Transfer Learning in Natural Language Processing</a></li><li>T5: <a href="https://arxiv.org/abs/1910.10683">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a></li><li>BART: <a href="https://arxiv.org/abs/1910.13461">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
@@ -125,9 +125,9 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td></td>
     </tr>
     <tr>
-        <td><strong>Week 7 / Week 8</strong></td>
-        <td>2 Apr / 9 Apr <br />3 Apr / 10 Apr</td>
-        <td><strong>Midterm</strong> / <strong>[Online only]</strong> LLMs: In-context Learning & Instruction Tuning <br/> No Class / Project Description</td>
+        <td><strong>Week 7</strong></td>
+        <td>2 Apr <br />3 Apr</td>
+        <td>LLMs: In-context Learning & Instruction Tuning <br/> <strong>No Class</strong></td>
         <td></td>
         <td>Antoine Bosselut</td>
     </tr>
@@ -138,11 +138,25 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td></td>
         <td></td>
     </tr>
+        <tr>
+        <td><strong>Week 8</strong></td>
+        <td>9 Apr <br />10 Apr</td>
+        <td><strong>Midterm</strong> <br/> Project Description</td>
+        <td></td>
+        <td>Antoine Bosselut</td>
+    </tr>
     <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
         <td><strong>Week 9</strong></td>
-        <td>16 Apr <br />17 Apr</td>
-        <td><strong>[Online only]</strong>Scaling laws &#124; LLM Efficiency <br /><strong>No class</strong> (Work on your project)</td>
-        <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2001.08361">Scaling laws for neural language models</a></li><li><a href="https://arxiv.org/abs/2203.15556">Training compute-optimal large language models</a></li></ul></td>
+        <td>16 Apr May <br />17 Apr</td>
+        <td>Retrieval-Augmented LLMs &#124; Agents <br /><strong>No class</strong> (Work on your project)</td>
+        <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/1606.05250">Squad: 100,000+ questions for machine comprehension of text</a></li><li><a href="https://aclanthology.org/Q19-1026/">Natural questions: a benchmark for question answering research</a></li><li><a href="https://arxiv.org/abs/2004.04906">Dense passage retrieval for open-domain question answering</a></li><li><a href="https://proceedings.mlr.press/v119/guu20a.html">Retrieval augmented language model pre-training</a></li><li><a href="https://arxiv.org/abs/2005.11401">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a></li><li><a href="https://arxiv.org/abs/2302.04761">Toolformer: Language models can teach themselves to use tools</a></li><li><a href="https://arxiv.org/abs/2210.03629">React: Synergizing reasoning and acting in language models</a></li><li><a href="https://arxiv.org/abs/2112.04426">Improving language models by retrieving from trillions of tokens</a></li><li><a href="https://arxiv.org/abs/2302.07842">Augmented language models: a survey</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
     <tr>
@@ -159,7 +173,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td></td>
         <td></td>
     </tr>
-    <tr>
+        <tr>
         <td></td>
         <td></td>
         <td></td>
@@ -169,9 +183,9 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 10</strong></td>
         <td>30 Apr <br />1 May</td>
-        <td>Ethics: Bias & Fairness  &#124; Toxicity & Disinformation <br /><strong>No class</strong> (Work on your project)</td>
-        <td>Suggested reading: <ul><li><a href="https://faculty.washington.edu/ebender/2017_575/#phil">Ethics in NLP</a></li><li><a href="https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/overview-human-rights-and-responsible-AI-company-practice.pdf">United Nations recommendations/overview on responsible AI practice</a></li></ul></td>
-        <td>Anna Sotnikova</td>
+        <td>Multimodality <br /><strong>No class</strong> (Work on your project)</td>
+        <td>Suggested reading: -</td>
+        <td>Syrielle Montariol <br />Antoine Bosselut</td>
     </tr>
     <tr>
         <td></td>
@@ -180,11 +194,11 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td></td>
         <td></td>
     </tr>
-    <tr>
+        <tr>
         <td><strong>Week 11</strong></td>
         <td>7 May <br />8 May</td>
-        <td>Tokenization &#124; Multilingual LMs <br /><strong>No class</strong> (Work on your project)</td>
-        <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2112.10508">Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP</a></li><li><a href="https://arxiv.org/abs/2105.13626">Byt5: Towards a token-free future with pre-trained byte-to-byte models</a></li><li><a href="https://arxiv.org/abs/1508.07909">Neural machine translation of rare words with subword units</a></li><li><a href="https://arxiv.org/abs/1911.02116">Unsupervised cross-lingual representation learning at scale</a></li><li><a href="https://arxiv.org/abs/1911.01464">Emerging cross-lingual structure in pretrained language models</a></li><li><a href="https://arxiv.org/abs/2005.00052">Mad-x: An adapter-based framework for multi-task cross-lingual transfer</a></li><li><a href="https://arxiv.org/abs/2110.07560">Composable sparse fine-tuning for cross-lingual transfer</a></li><li><a href="https://www.ruder.io/state-of-multilingual-ai/">The State of Multilingual AI</a></li></ul></td>
+        <td>Scaling laws &#124; LLM Efficiency <br /><strong>Guest Lecture:</strong> Rémi Delacourt (Mistral)</td>
+        <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2001.08361">Scaling laws for neural language models</a></li><li><a href="https://arxiv.org/abs/2203.15556">Training compute-optimal large language models</a></li></ul></td>
         <td>Antoine Bosselut</td>
     </tr>
     <tr>
@@ -197,6 +211,20 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 12</strong></td>
         <td>14 May <br />15 May</td>
+        <td>Ethics: Bias & Fairness  &#124; Toxicity & Disinformation <br /><strong>No class</strong> (Work on your project)</td>
+        <td>Suggested reading: <ul><li><a href="https://faculty.washington.edu/ebender/2017_575/#phil">Ethics in NLP</a></li><li><a href="https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/overview-human-rights-and-responsible-AI-company-practice.pdf">United Nations recommendations/overview on responsible AI practice</a></li></ul></td>
+        <td>Anna Sotnikova</td>
+    </tr>
+        <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong>Week 13</strong></td>
+        <td>21 May <br />22 May</td>
         <td>Interpretability <br /><strong>No class</strong> (Work on your project)</td>
         <td>Suggested reading: -</td>
         <td>Gail Weiss</td>
@@ -209,26 +237,13 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td></td>
     </tr>
     <tr>
-        <td><strong>Week 13</strong></td>
-        <td>21 May <br />22 May</td>
-        <td>Retrieval-Augmented LLMs &#124; Agents <br /><strong>No class</strong> (Work on your project)</td>
-        <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/1606.05250">Squad: 100,000+ questions for machine comprehension of text</a></li><li><a href="https://aclanthology.org/Q19-1026/">Natural questions: a benchmark for question answering research</a></li><li><a href="https://arxiv.org/abs/2004.04906">Dense passage retrieval for open-domain question answering</a></li><li><a href="https://proceedings.mlr.press/v119/guu20a.html">Retrieval augmented language model pre-training</a></li><li><a href="https://arxiv.org/abs/2005.11401">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a></li><li><a href="https://arxiv.org/abs/2302.04761">Toolformer: Language models can teach themselves to use tools</a></li><li><a href="https://arxiv.org/abs/2210.03629">React: Synergizing reasoning and acting in language models</a></li><li><a href="https://arxiv.org/abs/2112.04426">Improving language models by retrieving from trillions of tokens</a></li><li><a href="https://arxiv.org/abs/2302.07842">Augmented language models: a survey</a></li></ul></td>
-        <td>Antoine Bosselut</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
         <td><strong>Week 14</strong></td>
         <td>28 May <br />29 May</td>
-        <td>Multimodality <br />Looking forward</td>
-        <td>Suggested reading: -</td>
-        <td>Syrielle Montariol <br />Antoine Bosselut</td>
+        <td>Tokenization &#124; Multilingual LMs + Looking forward <br /><strong>Holiday</strong></td>
+        <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2112.10508">Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP</a></li><li><a href="https://arxiv.org/abs/2105.13626">Byt5: Towards a token-free future with pre-trained byte-to-byte models</a></li><li><a href="https://arxiv.org/abs/1508.07909">Neural machine translation of rare words with subword units</a></li><li><a href="https://arxiv.org/abs/1911.02116">Unsupervised cross-lingual representation learning at scale</a></li><li><a href="https://arxiv.org/abs/1911.01464">Emerging cross-lingual structure in pretrained language models</a></li><li><a href="https://arxiv.org/abs/2005.00052">Mad-x: An adapter-based framework for multi-task cross-lingual transfer</a></li><li><a href="https://arxiv.org/abs/2110.07560">Composable sparse fine-tuning for cross-lingual transfer</a></li><li><a href="https://www.ruder.io/state-of-multilingual-ai/">The State of Multilingual AI</a></li></ul></td>
+        <td>Antoine Bosselut</td>
     </tr>
+
 </table>
 
 
