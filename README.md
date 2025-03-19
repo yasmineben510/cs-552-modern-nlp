@@ -99,7 +99,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 5</strong></td>
         <td>19 Mar <br />20 Mar</td>
-        <td>Transfer Learning: Dataset Biases <br />Generation: Task </td>
+        <td>Transfer Learning: Dataset Biases [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%205">slides</a>]<br />Generation: Task </td>
         <td>Suggested reading: -</td>
         <td>Antoine Bosselut</td>
     </tr>
