@@ -264,7 +264,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
 |             |         |                                                                                           |                                                                     |
 | **Week 6**  | 27 Mar  |  Generation                                                                               |  Madhur Panwar                                                      |
 |             |         |                                                                                           |                                                                     |
-| **Week 7/8**|         |  ***MIDTERM***  /  In-context Learning - GPT-3                                           |  Mete Ismayilzad                                                    |  
+| **Week 7/8**|         |  ***MIDTERM***  /  In-context Learning - GPT-3                                            |  Mete Ismayilzad                                                    |  
 
 
 
