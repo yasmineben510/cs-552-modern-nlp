@@ -184,7 +184,17 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td><strong>Week 10</strong></td>
         <td>30 Apr <br />1 May</td>
         <td>Multimodality <br /><strong>No class</strong> (Work on your project)</td>
-        <td>Suggested reading: -</td>
+        <td>Suggested reading: <ul>
+            <li><a href="https://arxiv.org/pdf/2405.17247">An Introduction to Vision-Language Modeling</a></li>
+            <li><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/a03037317560b8c5f2fb4b6466d4c439-Abstract-Conference.html">What matters when building vision-language models?</a></li>
+            <li><a href="https://papers.nips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html">LLAVA: Visual Instruction Tuning</a></li>
+            <li><a href="https://arxiv.org/pdf/2412.05271">InternVL2.5: Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling</a></li>
+            <li><a href="https://arxiv.org/pdf/2307.06281">MMBench: Is Your Multi-modal Model an All-around Player?</a></li>
+            <li><a href="https://arxiv.org/pdf/2404.12390">BLINK: Multimodal Large Language Models Can See but Not Perceive</a></li>
+            <li><a href="https://arxiv.org/pdf/2311.12793">ShareGPT4V: Improving Large Multi-Modal Models with Better Captions</a></li>
+            <li><a href="https://arxiv.org/pdf/2306.15195">Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic</a></li>
+            <li><a href="https://arxiv.org/pdf/2405.16700">Implicit Multimodal Alignment: On the Generalization of Frozen LLMs to Multimodal Inputs</a></li>
+            </ul></td>
         <td>Syrielle Montariol <br />Antoine Bosselut</td>
     </tr>
     <tr>
