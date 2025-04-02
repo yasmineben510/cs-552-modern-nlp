@@ -127,7 +127,7 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 7</strong></td>
         <td>2 Apr <br />3 Apr</td>
-        <td>LLMs: In-context Learning & Instruction Tuning [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%207">slides</a>]<br/> <strong>No Class</strong></td>
+        <td>LLMs: In-context Learning & Instruction Tuning [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%207">slides</a>, <a href="https://mediaspace.epfl.ch/media/%5B2025%5D+19A+In-context+Learning%2C+Instruction+Tuning%2C+and+Preference+Optimisation/0_t153vbng/31346">video</a>]<br/> <strong>No Class</strong></td>
         <td></td>
         <td>Antoine Bosselut</td>
     </tr>
